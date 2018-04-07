@@ -282,7 +282,7 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	font-size:11px;
 	color:#787878;
 	text-transform:uppercase;
-	background:url(../images/secure-ssl-icon.png) no-repeat left center;
+	background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAMAAAC6CgRnAAAA7VBMVEUAAAB4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgCi35uAAAATnRSTlMAAQIDBgcICQsMDxQVFxobHR4jJygsLi8yNTc6PEJZW11iY2dpb3F5e3x/iIyOj5GanqiqrbW3vsDDxcfIys7R09XX2dre4u3v8fX3+ftyPFVYAAAA00lEQVQYGc3BiVKCYBSA0e9GKxaFFWZpZguGkW2W2gZoWlrd93+cYKaZH/UFPIeFJF4YTaLQE+a4iT75Z62xxi4zKnq3Qab0oRWmuOrzz3pQlxxJ2hxVSW01VqwoFoySFngdkvL1kKJ6GGEEq2uklhxgGGLEDfKaEcZ3nbzTCUYSkBe8Y9z0wV4mUxQYXGGU1ZG4Z4Oc6DGO7mHIqCPrb/rSHusl0n0mb1+vRQ6at+ebSOu3wJSadhwy292fXWaUP7Uf1IOBPtrMsar3o6/exQ4L6Q8wvhkVD0pH+AAAAABJRU5ErkJggg==) no-repeat left center;
 	padding:10px 10px 10px 30px;
 	margin:10px 40px;
 }
@@ -407,13 +407,13 @@ h1, h2, h3, h4, h5, h6, b, strong{
 }
 
 .what-we-do .health a{
-	background:#fff url(../images/featured-box-bg-2.png) no-repeat center 60px;
+	background:#fff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAMAAADUivDaAAABTVBMVEUAAAAxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrkxcrlOBiQyAAAAbnRSTlMAAQIDBAUGBwgJCg8QEhMUFhcYGRwfICEiIyQmKCorLC0vMDE3ODk6Ozw+QUNESktNT1BVWF1eY2hrbG1vcHV3e35/gIaIjJGaoqWqq6+wsrW5usDBx8/R09XX2drc3uDi5Obo6evt7/Hz9ff5+x3Z1ksAAAHGSURBVBgZ5cFbV1JRFAbQbwMdTAsQL2V2k1IqipRMKu1CWUmU3UQ0C8lIker7/48NxtooR2iMvddrc8JJeqXaqpdzEWjF1iiaGejEt3nkHjTMBntkoFBgr2YE/g4YkoO3FMPK8JZhWB3e5hjWgrdphlXhLc6wFfirMCQNf0n2WoNGnse2Y1DJs2sjDqVkhR0HBQO9+PRcJoX/lhlOTSSGoDe12mLHtwcjUEm857FnMfi7/oe9dkbga4EnHCbh5xL7NAL4CNrstw4fTznIRbgLeGR/8ze7qnA3S2trHDDZX7SG4ewVxV6AjvO0snD2mSIPUaZYgrMmxSjEPEUJakWKF9AyexQL0LpBKw0lU6f4Ca08rWUoRfZpnYXSIq0PUIq1aV2BUpHWFyhF27RuQqlAq2GgY5q0clC6RathoFSjdRtK47R+GCiVaM1DybQoDqNQGqVVhNYdWqeh9ZjiDdReUtyFiFwQU3D2hGIJ4hzFDpwtUmxBPKd4B2cztJbRcY3WQzg7xa63lxOTJXZNwF2FgzQM3I1xkFn4eM1+H+ElUuVJuwH8DG0ybPcMfEXL7PUpgMLVGru+Z6E0dr9Sa39dfzRp8A9/AVRaWVPdgmWEAAAAAElFTkSuQmCC) no-repeat center 60px;
 	border:1px solid #e4e4e4;
 	border-radius:5px;
 }
 
 .what-we-do .health a:hover{
-	background:#4086d3 url(../images/featured-box-bg-2-hover.png) no-repeat center 60px;
+	background:#4086d3 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAABCCAMAAADUivDaAAABTVBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8NHM+AAAAAbnRSTlMAAQIDBAUGBwgJCg8QEhMUFhcYGRwfICEiIyQmKCorLC0vMDE3ODk6Ozw+QUNESktNT1BVWF1eY2hrbG1vcHV3e35/gIaIjJGaoqWqq6+wsrW5usDBx8/R09XX2drc3uDi5Obo6evt7/Hz9ff5+x3Z1ksAAAHGSURBVBgZ5cFbV1JRFAbQbwMdTAsQL2V2k1IqipRMKu1CWUmU3UQ0C8lIker7/48NxtooR2iMvddrc8JJeqXaqpdzEWjF1iiaGejEt3nkHjTMBntkoFBgr2YE/g4YkoO3FMPK8JZhWB3e5hjWgrdphlXhLc6wFfirMCQNf0n2WoNGnse2Y1DJs2sjDqVkhR0HBQO9+PRcJoX/lhlOTSSGoDe12mLHtwcjUEm857FnMfi7/oe9dkbga4EnHCbh5xL7NAL4CNrstw4fTznIRbgLeGR/8ze7qnA3S2trHDDZX7SG4ewVxV6AjvO0snD2mSIPUaZYgrMmxSjEPEUJakWKF9AyexQL0LpBKw0lU6f4Ca08rWUoRfZpnYXSIq0PUIq1aV2BUpHWFyhF27RuQqlAq2GgY5q0clC6RathoFSjdRtK47R+GCiVaM1DybQoDqNQGqVVhNYdWqeh9ZjiDdReUtyFiFwQU3D2hGIJ4hzFDpwtUmxBPKd4B2cztJbRcY3WQzg7xa63lxOTJXZNwF2FgzQM3I1xkFn4eM1+H+ElUuVJuwH8DG0ybPcMfEXL7PUpgMLVGru+Z6E0dr9Sa39dfzRp8A9/AVRaWVPdgmWEAAAAAElFTkSuQmCC) no-repeat center 60px;
 	border:1px solid #3172b9;
 	box-shadow: 0px 0px 0px 2px #3172b9 inset;
 }
@@ -1140,7 +1140,7 @@ h1, h2, h3, h4, h5, h6, b, strong{
 --------------------------------------------------------------*/
 
 .sub-company{
-	padding:50px 15px 20px;
+	padding:50px 50px;
 	background:#fafaf9;
 	border-top:1px solid #dadada;
 	border-bottom:1px solid #dadada;
