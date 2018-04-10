@@ -1,0 +1,23 @@
+#editSection{
+	width:100%;
+}
+.termsCondition{
+	color:#1391ff;
+	display: inline-block;
+	padding:6px 12px 6px 0px;
+}
+.resources-post-content{
+	padding-top:30px;
+}
+.numberCircle {
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    padding: 8px;
+   	font-weight:bold;
+    background: #FDA403;
+    color: #fff;
+    text-align: center;
+    display: inline-block;
+    font: 14px Arial, sans-serif;
+}
