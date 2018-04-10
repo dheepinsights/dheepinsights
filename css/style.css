@@ -1286,39 +1286,15 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	Contact Us
 --------------------------------------------------------------*/
 
-.contact-us{
-	background:#fafaf9;
-	padding:120px 15px;
-}
 
-.contact-us .section-content{
-	padding:0 130px;
-	text-align:center;
-}
 
-.contact-us .section-content h2{
-	margin:0 0 40px;
-	font-size:36px;
-	color:#1c1c1c;
-	font-weight:300;
-}
-
-.contact-us .section-content p{
-	margin:0 0 30px;
-	font-size:16px;
-	line-height:22pxl;
-	color:#323031;
-	font-weight:300;
-}
-
-.contact-us .contact-form{
+.contact-form{
 	display:inline-block;
 	width:80%;
 	margin:30px auto 0;
 	text-align:center;
 }
-
-.contact-us .contact-form label{
+.contact-form label{
 	font-size:16px;
 	color:#323031;
 	margin:0 0 20px;
@@ -1328,9 +1304,9 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	width:100%;
 }
 
-.contact-us .contact-form input[type="text"],
-.contact-us .contact-form input[type="email"],
-.contact-us .contact-form textarea{
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea{
 	width:100%;
 	padding:15px;
 	font-size:16px;
@@ -1342,11 +1318,11 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	margin:0 0 20px;
 }
 
-.contact-us .contact-form textarea{
+.contact-form textarea{
 	min-height:120px;
 }
 
-.contact-us .contact-form input[type="submit"]{
+.contact-form input[type="submit"]{
 	display:inline-block;
 	color:#fff;
 	font-size:17px;
@@ -2257,6 +2233,7 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	list-style:none;
 }
 
+/*
 .resources-post .resources-post-content ul li{
 	font-size:16px;
 	line-height:21px;
@@ -2264,13 +2241,13 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	padding:0 0 0 40px;
 	background:url(../images/check-icon-dark.png) no-repeat left center;
 	margin:0 0 20px;
-}
+}*/
 
 .resources-post .resources-post-content p{
 	color:#787878;
 	font-size:17px;
 	line-height:30px;
-	margin:0 0 40px;
+	margin:0 0 30px;
 	display:inline-block;
 }
 

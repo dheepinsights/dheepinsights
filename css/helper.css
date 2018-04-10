@@ -1482,7 +1482,10 @@ ul.no-margin,
 /**
  * Typography
  */
-
+ 
+ .fontLato{
+	 font-family: 'Lato', sans-serif !important;
+ }
 .font10 {
     font-size: 10px !important;
 }
@@ -1616,9 +1619,19 @@ ul.no-margin,
 }
 
 .text-primary {
-    color: #0D7CC9 !important;
+    color: #777 !important;
 }
 
+.text-secondary {
+    color: #bbb !important;
+}
+
+.text-subtle {
+    color: #e7e7e7 !important;
+}
+.text-link{
+	color:#1391ff !important;
+}
 .text-info {
     color: #3A679A !important;
 }
@@ -3637,3 +3650,4 @@ a.link-alt:hover {
 .GridLex-gap-50.no-mb > div > div > div {
     margin-bottom: 0;
 }
+
