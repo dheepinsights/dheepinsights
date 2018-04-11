@@ -1,10 +1,18 @@
-h1,h2,h3,h4,h5,h6,p,.fontLato{
+h1, h2, h3, h4, h5, h6, p, button,a{
 	 font-family: Lato !important;
 	 font-weight: 1000 !important;
 	 letter-spacing:0.75px !important;
 	 color: #999 !important;
 }
-
+a{
+    color: #1391ff !important;
+}
+.fontred{
+color:red !important;
+}
+.fontOrange{
+color:#FDA403 !important;
+}
 #editSection{
 	width:100%;
 	color:#777 !important;
@@ -171,7 +179,10 @@ ul.bs-autocomplete-menu a {
     transform: rotate(360deg);
   }
 }
-#suppAutoComplete{padding: 10px 10px;margin-bottom: 20px;}
+#suppAutoComplete{padding: 5px 10px;margin-bottom: 20px;}
 .section{
 	margin-bottom: 20px;
+}
+.fa.fa-smile-o{
+color:#fda403;
 }

@@ -319,7 +319,7 @@
     margin: 25px !important;
 }
 
-.no-magin,
+.no-margin,
 ul.no-margin,
 .margin-0 {
     margin: 0 !important
@@ -901,7 +901,9 @@ ul.no-margin,
 .sm-clear {
     display: none;
 }
-
+.fullwidth{
+width:100%;
+}
 
 
 .overflow-x-hidden,
@@ -1767,6 +1769,9 @@ a.link-alt:hover {
     color: #FFF !important;
 }
 
+.bg-cta{
+    background: #C51350 !important;
+}
 .bg-info {
     background: #055586 !important;
     color: #FFF !important;

@@ -1295,18 +1295,16 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	text-align:center;
 }
 .contact-form label{
-	font-size: 14px;
+	font-size: 16px;
 	color:#323031;
-	margin: 0 0 10px;
+	margin: 0 0 5px;
 	font-weight:600;
 	font-family: 'Open Sans';
 	text-align:left;
 	width:100%;
 }
 
-.contact-form input[type="text"],
-.contact-form input[type="email"],
-.contact-form textarea{
+.contact-form input[type="text"], .contact-form input[type="email"], .contact-form textarea, .inputText{
 	width:100%;
 	padding: 5px 10px;
 	font-size: 14px;
@@ -1315,7 +1313,7 @@ h1, h2, h3, h4, h5, h6, b, strong{
 	border:1px solid #ccc;
 	background:#fff;
 	border-radius:5px;
-	margin:0 0 20px;
+	margin: 0 0 10px;
 }
 
 .contact-form textarea{
@@ -2245,10 +2243,9 @@ h1, h2, h3, h4, h5, h6, b, strong{
 
 .resources-post .resources-post-content p{
 	color:#787878;
-	font-size: 15px;
+	font-size: 16px;
 	line-height: 25px;
 	margin: 0 0 10px;
-
 	display:inline-block;
 }
 
