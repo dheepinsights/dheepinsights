@@ -19,6 +19,24 @@ h1,h2,h3,h4,h5,h6,p,.fontLato{
 .resources-post-content{
 	padding-top:30px;
 }
+.contact-form input.lastcolumn{
+	width:50%;
+}
+i.lastcoloumn{
+	font-size: 20px;
+    display: inline-block;
+    margin-top: 12px;
+    float: left;
+    margin-left: 10px;
+}
+#save,#saveprint{
+background: #C51350;
+width:100%;
+color:#fff !important;
+}
+.lastcoloumn.fa.fa-plus-circle{
+	color:#FDA403;
+}
 .numberCircle {
     border-radius: 50%;
     width: 36px;
