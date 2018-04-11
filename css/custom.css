@@ -1,8 +1,8 @@
 h1,h2,h3,h4,h5,h6,p,.fontLato{
 	 font-family: Lato !important;
-    font-weight: 1000 !important;
-	letter-spacing:0.75px !important;
-	color:#bbb !important;
+	 font-weight: 1000 !important;
+	 letter-spacing:0.75px !important;
+	 color: #999 !important;
 }
 
 #editSection{
@@ -14,28 +14,33 @@ h1,h2,h3,h4,h5,h6,p,.fontLato{
 	display: inline-block;
 	padding:6px 12px 6px 0px;
 	font-weight: 1000;
-    font-size: 16px;
+	font-size: 15px;
 }
 .resources-post-content{
-	padding-top:30px;
+	padding-top: 20px;
 }
 .numberCircle {
     border-radius: 50%;
-    width: 36px;
-    height: 36px;
-   	font-weight:1000;
+    width: 35px;
+    height: 35px;
+    font-weight:1000;
     background: #FDA403;
     color: #fff;
     text-align: center;
     display: inline-block;
     font-family:Lato;
-	font-size:20px;
+    font-size: 16px;
+    padding: 3px;
 }
 .fa.fa-check-circle {
 	color:#4A772F;
 }
 .resources-post-content label {
     font-weight: 500;
+    letter-spacing: 0px;
+}
+.resources-post-content .contact-form label {
+    font-weight: 1000;
     letter-spacing: 0px;
 }
 ul.bs-autocomplete-menu {
@@ -148,10 +153,7 @@ ul.bs-autocomplete-menu a {
     transform: rotate(360deg);
   }
 }
-#suppAutoComplete{
-padding:25px 10px;
-margin-bottom:30px;
-}
+#suppAutoComplete{padding: 10px 10px;margin-bottom: 20px;}
 .section{
-	margin-bottom:50px;
+	margin-bottom: 20px;
 }
