@@ -608,7 +608,8 @@ a:hover, a:active, a:focus {
 }
 
 .font25 {
-  font-size: 25px;
+  /* font-size: 36px; */
+  /* font-style: italic; */
 }
 
 .font28 {
